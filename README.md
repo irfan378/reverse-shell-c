@@ -5,6 +5,7 @@
 
 ```
 ```
+### compile and execute 
 gcc shell.c -o shell
 ./shell
 ```
