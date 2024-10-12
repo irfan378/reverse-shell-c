@@ -4,8 +4,9 @@
 	addr.sin_port=htons(4444);
 
 ```
-```
 ### compile and execute 
+
+```
 gcc shell.c -o shell
 ./shell
 ```
